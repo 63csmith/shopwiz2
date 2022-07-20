@@ -1,0 +1,148 @@
+
+[
+    {
+    "itemName": "Dragon Scimitar",
+    "image": "/items/Dragon_scim.png",
+    "price": 250,
+    "description": "A vicious, curved sword.",
+    "category": "Weapon",
+    "gameName": "Runescape"
+    },
+    {
+    "itemName": "Abyssal Whip",
+    "image": "/items/Abyssal_Whip.png",
+    "price": 1500,
+    "description": "A weapon from the Abyss.",
+    "category": "Weapon",
+    "gameName": "Runescape"
+    },
+    {
+    "itemName": "Arthur Morgan's Hat",
+    "image": "/items/Author_Morgan's_Hat.png",
+    "price": 100,
+    "description": "A nice Wide-brimmed cowboy hat",
+    "category": "Cosmetic",
+    "gameName": "Red Dead Redemption 2"
+    },
+    {
+    "itemName": "Ray-Gun",
+    "image": "/items/ray-gun.png",
+    "price": 600,
+    "description": "Pew-Pew",
+    "category": "Weapon",
+    "gameName": "Call of Duty Zombies"
+    },
+    {
+    "itemName": "Cactus Juice",
+    "image": "/items/Cactus_Juice.png",
+    "price": 50,
+    "description": "Its the JUICIEST!",
+    "category": "Consumable",
+    "gameName": "Avatar: The Last Airbender"
+    },
+    {
+    "itemName": "Dragon ChainBody",
+    "image": "/items/Dragon_ChainBody.png",
+    "price": 500,
+    "description": "A series of connected metal rings.",
+    "category": "Armor",
+    "gameName": "Runescape"
+    },
+    {
+    "itemName": "Battle Rifle",
+    "image": "/items/br.png",
+    "price": 500,
+    "description": "A Spartan's weapon of choice.",
+    "category": "Weapon",
+    "gameName": "Halo 2"
+    },
+    {
+    "itemName": "Wanderer's Straw Hat",
+    "image": "/items/straw_hat.png",
+    "price": 120,
+    "description": "Keeps the sun out of your eyes as you explore.",
+    "category": "Armor",
+    "gameName": "Ghost of Tsushima"
+    },
+    {
+    "itemName": "Master Sword",
+    "image": "/items/Master_Sword.png",
+    "price": 5000,
+    "description": "A sword that never breaks.",
+    "category": "Weapon",
+    "gameName": "Breath of the Wild"
+    },
+    {
+    "itemName": "Chainsaw",
+    "image": "/items/chainsaw.png",
+    "price": 80,
+    "description": "Great for trees, better for monsters.",
+    "category": "Weapon",
+    "gameName": "The Forest"
+    },
+    {
+    "itemName": "Gravity Gloves",
+    "image": "/items/gravity_gloves.png",
+    "price": 1500,
+    "description": "For those hard to reach loot items.",
+    "category": "Armor",
+    "gameName": "Half Life: Alyx"
+    },
+    {
+    "itemName": "The Hammer",
+    "image": "/items/hammer.png",
+    "price": 400,
+    "description": "The single most annoying item in Smash.",
+    "category": "Weapon",
+    "gameName": "Super Smash Bros"
+    },
+    {
+    "itemName": "Lancer",
+    "image": "/items/lancer.png",
+    "price": 2000,
+    "description": "Great for close range combat...",
+    "category": "Weapon",
+    "gameName": "Gears of War"
+    },
+    {
+    "itemName": "Crowbar",
+    "image": "/items/crowbar.png",
+    "price": 25,
+    "description": "An iconic tool-turned-weapon.",
+    "category": "Weapon",
+    "gameName": "Half Life 2"
+    },
+    {
+    "itemName": "Red Shell",
+    "image": "/items/red-shell.png",
+    "price": 60,
+    "description": "The worst sound to hear in first place.",
+    "category": "Weapon",
+    "gameName": "Mario Kart"
+    },
+    {
+    "itemName": "Kraber",
+    "image": "/items/kraber.png",
+    "price": 3000,
+    "description": "Duck!",
+    "category": "Weapon",
+    "gameName": "Apex Legends"
+    },
+    {
+    "itemName": "Energy Sword",
+    "image": "/items/energy_sword.png",
+    "price": 5000,
+    "description": "....run",
+    "category": "Weapon",
+    "gameName": "Halo: Combat Evolved"
+    },
+    {
+    "itemName": "Diamond Pickaxe",
+    "image": "/items/pickaxe.png",
+    "price": 5000,
+    "description": "Mine to your heart's content.",
+    "category": "Weapon",
+    "gameName": "Minecraft"
+    }
+    
+]
